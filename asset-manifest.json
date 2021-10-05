@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Krypto-Price-Prediction/static/css/main.3b3a34a8.chunk.css",
+    "main.js": "/Krypto-Price-Prediction/static/js/main.971f5aa0.chunk.js",
+    "main.js.map": "/Krypto-Price-Prediction/static/js/main.971f5aa0.chunk.js.map",
+    "runtime-main.js": "/Krypto-Price-Prediction/static/js/runtime-main.7e61bec0.js",
+    "runtime-main.js.map": "/Krypto-Price-Prediction/static/js/runtime-main.7e61bec0.js.map",
+    "static/js/2.52670a28.chunk.js": "/Krypto-Price-Prediction/static/js/2.52670a28.chunk.js",
+    "static/js/2.52670a28.chunk.js.map": "/Krypto-Price-Prediction/static/js/2.52670a28.chunk.js.map",
+    "index.html": "/Krypto-Price-Prediction/index.html",
+    "static/css/main.3b3a34a8.chunk.css.map": "/Krypto-Price-Prediction/static/css/main.3b3a34a8.chunk.css.map",
+    "static/js/2.52670a28.chunk.js.LICENSE.txt": "/Krypto-Price-Prediction/static/js/2.52670a28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e61bec0.js",
+    "static/js/2.52670a28.chunk.js",
+    "static/css/main.3b3a34a8.chunk.css",
+    "static/js/main.971f5aa0.chunk.js"
+  ]
+}
